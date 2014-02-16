@@ -1,4 +1,13 @@
 * { margin: 0; padding: 0; }
+body 
+{ 
+  background: url(random.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 a { text-decoration: none; color: inherit; }
 nav { display: block; }
 .clear { clear: both; }
