@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; }
-header, footer, .body { padding: 15px; background-color: #ff7000; }
+header, footer, .body { padding: 15px; background-color: #ff70ff; }
 header, footer, .body { margin: 15px; }
 .body > .sidebar > { margin-left: 15px }
 .body { overflow: hidden; }
